@@ -1,1 +1,2 @@
-this change is for feature one 
+this line is changed in feature 1
+ 
