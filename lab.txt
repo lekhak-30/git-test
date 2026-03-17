@@ -1,0 +1,1 @@
+The name Git was chosen by its creator, Linus Torvalds, when he developed the version control system in 2005
